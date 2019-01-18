@@ -1,8 +1,8 @@
 def my_hash(obj)
-  your_hash = { "my_name" =>  "Sruthi Krishna"
-                "age" =>  28
-                "occupation" =>  "Student"
-                "hobbies" =>  ['singing', 'solving puzzles']}
+  your_hash = { "my_name" :  "Sruthi Krishna"
+                "age" :  28
+                "occupation" :  "Student"
+                "hobbies" :  ['singing', 'solving puzzles']}
 end
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 end
