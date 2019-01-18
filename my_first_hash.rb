@@ -4,6 +4,7 @@ def my_hash(obj)
                 "occupation" => "Student"
                 "hobbies" => ['singing', 'solving puzzles']
   }
+end
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 end
 
