@@ -1,4 +1,4 @@
-def my_hash(obj)
+def my_hash
   your_hash = { "my_name" => "Sruthi Krishna"
                 "age" => 28
                 "occupation" => "Student"
