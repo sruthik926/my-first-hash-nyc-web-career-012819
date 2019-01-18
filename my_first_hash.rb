@@ -1,6 +1,6 @@
 def my_hash(obj)
   your_hash = { "my_name" => "Sruthi Krishna"
-                "age" : => 28
+                "age" => 28
                 "occupation" => "Student"
                 "hobbies" =>  ['singing', 'solving puzzles']}
 end
